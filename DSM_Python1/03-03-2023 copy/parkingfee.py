@@ -1,0 +1,1 @@
+Parkinghours = int(input(' How many parking hours: '))
